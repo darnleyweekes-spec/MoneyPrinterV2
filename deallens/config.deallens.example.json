@@ -1,0 +1,49 @@
+{
+  "verbose": true,
+  "firefox_profile": "",
+  "headless": false,
+  "ollama_base_url": "http://127.0.0.1:11434",
+  "ollama_model": "",
+  "twitter_language": "English",
+  "nanobanana2_api_base_url": "https://generativelanguage.googleapis.com/v1beta",
+  "nanobanana2_api_key": "",
+  "nanobanana2_model": "gemini-3.1-flash-image-preview",
+  "nanobanana2_aspect_ratio": "9:16",
+  "threads": 1,
+  "zip_url": "",
+  "is_for_kids": false,
+  "google_maps_scraper": "https://github.com/gosom/google-maps-scraper/archive/refs/tags/v0.9.7.zip",
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "",
+    "password": ""
+  },
+  "google_maps_scraper_niche": "search fund independent sponsor boutique M&A private equity family office",
+  "scraper_timeout": 300,
+  "outreach_message_subject": "A faster first pass on acquisition diligence",
+  "outreach_message_body_file": "deallens/outreach_message.html",
+  "stt_provider": "local_whisper",
+  "whisper_model": "base",
+  "whisper_device": "auto",
+  "whisper_compute_type": "int8",
+  "assembly_ai_api_key": "",
+  "tts_voice": "Jasper",
+  "font": "bold_font.ttf",
+  "imagemagick_path": "/usr/bin/convert",
+  "script_sentence_length": 4,
+  "post_bridge": {
+    "enabled": false,
+    "api_key": "",
+    "platforms": ["tiktok", "instagram"],
+    "account_ids": [],
+    "auto_crosspost": false
+  },
+  "deallens": {
+    "site_url": "https://darnleyweekes-spec.github.io/jarvis-workforce-hq/deallens/",
+    "sample_url": "https://darnleyweekes-spec.github.io/jarvis-workforce-hq/deallens/sample.html",
+    "offer": "DealLens Express — $1,500 per deal",
+    "human_approval_required": true,
+    "max_outreach_batch": 10
+  }
+}
