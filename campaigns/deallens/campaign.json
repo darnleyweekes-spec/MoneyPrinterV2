@@ -1,0 +1,47 @@
+{
+  "campaign": "DealLens Express",
+  "offer": "$1,500 per deal, no subscription",
+  "audience": [
+    "independent sponsors",
+    "search funds",
+    "lower-middle-market private equity",
+    "family offices making direct acquisitions",
+    "M&A advisors supporting buy-side diligence"
+  ],
+  "site": "https://darnleyweekes-spec.github.io/jarvis-workforce-hq/deallens/",
+  "sample": "https://darnleyweekes-spec.github.io/jarvis-workforce-hq/deallens/sample.html",
+  "positioning": "Human-reviewed first-pass acquisition diligence from CIMs, financial exports, customer concentration files, and supporting documents.",
+  "cta": "Reply SAMPLE or send a current opportunity to see what the first pass would look like.",
+  "outreach": {
+    "subject": "Faster first-pass acquisition diligence",
+    "daily_target": 20,
+    "follow_up_days": [2, 5],
+    "qualification": [
+      "actively acquires businesses",
+      "typically evaluates $10M-$100M revenue companies or similar lower-middle-market targets",
+      "has public business contact information",
+      "deal team would benefit from faster first-pass diligence"
+    ]
+  },
+  "content": {
+    "x_posts_per_day": 3,
+    "shorts_per_day": 1,
+    "topics": [
+      "customer concentration risk",
+      "CIM blind spots",
+      "revenue quality",
+      "working capital diligence",
+      "management questions",
+      "deterministic financial checks",
+      "evidence versus AI guessing",
+      "what to check before ordering QoE"
+    ]
+  },
+  "guardrails": [
+    "Do not claim DealLens replaces QoE, legal diligence, tax diligence, or investment judgment.",
+    "Do not invent prospect-specific facts.",
+    "Use only public business contact information for outbound.",
+    "Keep final investment decisions human-reviewed.",
+    "Prefer specific evidence-backed educational content over hype."
+  ]
+}
